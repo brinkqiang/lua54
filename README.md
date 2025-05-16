@@ -39,6 +39,5 @@ lua54
 ```cpp
 ```
 ## Contacts
-[![Join the chat](https://badges.gitter.im/brinkqiang/lua54/Lobby.svg)](https://gitter.im/brinkqiang/lua54)
 
 ## Thanks
