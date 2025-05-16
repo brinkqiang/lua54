@@ -31,9 +31,14 @@ build.bat
 
 linux
 ```
-sh build.sh
+./build.sh
 ```
-
+## Install && Uninstall
+```
+cd build
+sudo make install
+sudo make uninstall
+```
 ## Intro
 lua54
 ```cpp
