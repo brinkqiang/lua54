@@ -23,7 +23,7 @@
 #include "lauxlib.h"
 #include "lualib.h"
 
-
+#include "lua_module.h"
 /*
 ** LUA_IGMARK is a mark to ignore all before it when building the
 ** luaopen_ function name.
