@@ -68,4 +68,4 @@ ELSEIF (UNIX)
     ENDIF(USE_LUA54_INNER)
 ENDIF ()
 
-AddInstall("lua;lua54" "CMAKE_CURRENT_SOURCE_DIR/include")
+AddInstall("lua;lua54" "${CMAKE_CURRENT_SOURCE_DIR}/include")
